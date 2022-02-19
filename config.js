@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6282287750102','6285799743965'] // Letakan nomor kamu disini
+global.owner = ['6282287750102', '6285799743965','', '6285799743965', '6282287750102'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -44,10 +44,10 @@ global.APIKeys = { // APIKey nya disini
 global.packname = 'Alpin'
 global.author = 'Alpin'
 
-global.wait = '「 ⏱️ 」Harap tunggu...'
+global.wait = '「 ⏱️ 」Bentar kak...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© AlpinHani' //change the watermark 
+global.watermark = '© Hanicans:v' //change the watermark 
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
 
